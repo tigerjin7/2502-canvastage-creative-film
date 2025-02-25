@@ -96,7 +96,7 @@ body{
     font-size: 1.5rem;
     color: black;
 }
-@media (max-width:780px) {
+@media (max-width:900px) {
     #header, .main{
         width: 100%;  
     }
